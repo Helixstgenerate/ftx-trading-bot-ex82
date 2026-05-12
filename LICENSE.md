@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with new ftx trading bot Tool | futures-arbitrage + trailing-stop, the #1 ftx trading bot. Includes futures-arbitrage and trailing-stop for a smoother and
 
 
 
